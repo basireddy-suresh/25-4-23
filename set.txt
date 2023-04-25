@@ -1,4 +1,5 @@
 Set is an unordered and unindex data structures that does not allow duplicates.
+It is mutable
 set is in curly braces {}
 arr=[1,1,2,2,4,7,4,2,3,5]
 arr1=set(arr)

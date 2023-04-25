@@ -3,3 +3,13 @@ It is mutable
 set is in curly braces {}
 arr=[1,1,2,2,4,7,4,2,3,5]
 arr1=set(arr)
+arr=[1,2,2,7,7,6,3,2,1]
+a1=set(arr)
+print(a1)
+print(type(a1))
+a1.add(21)
+print(a1)
+a1.clear()
+print(a1)
+a1.copy()
+print(a1)

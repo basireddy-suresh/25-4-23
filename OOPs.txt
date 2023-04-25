@@ -1,0 +1,8 @@
+OOPs is a technique that logic should revolve around the concept of class and instances of the class(object).
+ bind data and func together as single unit.
+ class
+ object
+ polymorphism
+ Encapsulation
+ inheritance
+ data abstraction.

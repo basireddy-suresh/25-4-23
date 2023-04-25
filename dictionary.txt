@@ -1,0 +1,4 @@
+It is key-value pairs
+It is changable and ordered.
+It does not allow duplicates.
+denoted with curly braces {} and separated by comma(,) in key-value pairs
